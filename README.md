@@ -1,4 +1,4 @@
-# Project README: T-Rex Chrome Dino Game on STM32F446RE NUCLEO-F446RE
+# PolyMTL ELE3312 Project: T-Rex Chrome Dino Game on STM32F446RE NUCLEO-F446RE
 
 ## Overview
 
