@@ -30,20 +30,6 @@ This project focuses on creating an embedded system version of the Google Chrome
 2. **Firmware Installation**: Load the game code onto the STM32F446RE. Ensure hardware components are initialized.
 3. **Duel Mode Configuration**: For duel play, set up two systems with IR sensors aligned for communication.
 
-## Development Steps
-
-- **Week 1**: Implement gesture detection with the ultrasonic sensor.
-- **Week 2**: Integrate sensor input for in-game control.
-- **Week 3**: Finalize game integration, adding score display and duel mode via IR.
-
-## Contributing
-
-Contributions are welcome. Fork the project, add your features, and submit a pull request for review. Open an issue first for significant changes.
-
-## License
-
-This project is under the MIT License. See LICENSE for more details.
-
 ## Acknowledgments
 
 Thanks to Abderrahim Ayoub and David-Olivier for their contributions and the entire ELE3312 course team.
